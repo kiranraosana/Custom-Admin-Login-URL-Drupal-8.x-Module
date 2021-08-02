@@ -1,0 +1,4 @@
+name: Custom Admin Login URL
+description: Custom Admin Login URL
+type: module
+core: 8.x

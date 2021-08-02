@@ -1,0 +1,5 @@
+services:
+  custom_admin_url.custom_admin_url_subscribe:
+    class: Drupal\custom_admin_url\Routing\CustomAdminUrlSubscribe
+    tags:
+      - { name: event_subscriber }
